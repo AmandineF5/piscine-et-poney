@@ -1,0 +1,12 @@
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/PiscineEtPoney.Domain/bin/Debug/net8.0/PiscineEtPoney.Domain.deps.json
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/PiscineEtPoney.Domain/bin/Debug/net8.0/PiscineEtPoney.Domain.dll
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/PiscineEtPoney.Domain/bin/Debug/net8.0/PiscineEtPoney.Domain.pdb
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/PiscineEtPoney.Domain/obj/Debug/net8.0/PiscineEtPoney.Domain.csproj.AssemblyReference.cache
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/PiscineEtPoney.Domain/obj/Debug/net8.0/PiscineEtPoney.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/PiscineEtPoney.Domain/obj/Debug/net8.0/PiscineEtPoney.Domain.AssemblyInfoInputs.cache
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/PiscineEtPoney.Domain/obj/Debug/net8.0/PiscineEtPoney.Domain.AssemblyInfo.cs
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/PiscineEtPoney.Domain/obj/Debug/net8.0/PiscineEtPoney.Domain.csproj.CoreCompileInputs.cache
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/PiscineEtPoney.Domain/obj/Debug/net8.0/PiscineEtPoney.Domain.dll
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/PiscineEtPoney.Domain/obj/Debug/net8.0/refint/PiscineEtPoney.Domain.dll
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/PiscineEtPoney.Domain/obj/Debug/net8.0/PiscineEtPoney.Domain.pdb
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/PiscineEtPoney.Domain/obj/Debug/net8.0/ref/PiscineEtPoney.Domain.dll

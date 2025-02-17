@@ -1,0 +1,7 @@
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/obj/Debug/net8.0/PiscineEtPoneyBackEnd.csproj.AssemblyReference.cache
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/obj/Debug/net8.0/PiscineEtPoneyBackEnd.GeneratedMSBuildEditorConfig.editorconfig
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/obj/Debug/net8.0/PiscineEtPoneyBackEnd.AssemblyInfoInputs.cache
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/obj/Debug/net8.0/PiscineEtPoneyBackEnd.AssemblyInfo.cs
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/obj/Debug/net8.0/PiscineEtPoneyBackEnd.csproj.CoreCompileInputs.cache
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/obj/Debug/net8.0/PiscineEtPoneyBackEnd.MvcApplicationPartsAssemblyInfo.cs
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/obj/Debug/net8.0/PiscineEtPoneyBackEnd.MvcApplicationPartsAssemblyInfo.cache

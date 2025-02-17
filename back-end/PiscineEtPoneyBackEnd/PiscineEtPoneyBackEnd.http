@@ -1,0 +1,6 @@
+@PiscineEtPoneyBackEnd_HostAddress = http://localhost:5014
+
+GET {{PiscineEtPoneyBackEnd_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

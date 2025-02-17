@@ -1,0 +1,11 @@
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/PiscineEtPoney.Tests/bin/Debug/net8.0/PiscineEtPoney.Tests.deps.json
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/PiscineEtPoney.Tests/bin/Debug/net8.0/PiscineEtPoney.Tests.dll
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/PiscineEtPoney.Tests/bin/Debug/net8.0/PiscineEtPoney.Tests.pdb
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/PiscineEtPoney.Tests/obj/Debug/net8.0/PiscineEtPoney.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/PiscineEtPoney.Tests/obj/Debug/net8.0/PiscineEtPoney.Tests.AssemblyInfoInputs.cache
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/PiscineEtPoney.Tests/obj/Debug/net8.0/PiscineEtPoney.Tests.AssemblyInfo.cs
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/PiscineEtPoney.Tests/obj/Debug/net8.0/PiscineEtPoney.Tests.csproj.CoreCompileInputs.cache
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/PiscineEtPoney.Tests/obj/Debug/net8.0/PiscineEtPoney.Tests.dll
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/PiscineEtPoney.Tests/obj/Debug/net8.0/refint/PiscineEtPoney.Tests.dll
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/PiscineEtPoney.Tests/obj/Debug/net8.0/PiscineEtPoney.Tests.pdb
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/PiscineEtPoney.Tests/obj/Debug/net8.0/ref/PiscineEtPoney.Tests.dll

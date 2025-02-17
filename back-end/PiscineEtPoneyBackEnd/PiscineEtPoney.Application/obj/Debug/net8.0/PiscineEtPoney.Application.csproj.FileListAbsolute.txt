@@ -1,0 +1,15 @@
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/PiscineEtPoney.Application/bin/Debug/net8.0/PiscineEtPoney.Application.deps.json
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/PiscineEtPoney.Application/bin/Debug/net8.0/PiscineEtPoney.Application.dll
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/PiscineEtPoney.Application/bin/Debug/net8.0/PiscineEtPoney.Application.pdb
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/PiscineEtPoney.Application/bin/Debug/net8.0/PiscineEtPoney.Domain.dll
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/PiscineEtPoney.Application/bin/Debug/net8.0/PiscineEtPoney.Domain.pdb
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/PiscineEtPoney.Application/obj/Debug/net8.0/PiscineEtPoney.Application.csproj.AssemblyReference.cache
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/PiscineEtPoney.Application/obj/Debug/net8.0/PiscineEtPoney.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/PiscineEtPoney.Application/obj/Debug/net8.0/PiscineEtPoney.Application.AssemblyInfoInputs.cache
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/PiscineEtPoney.Application/obj/Debug/net8.0/PiscineEtPoney.Application.AssemblyInfo.cs
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/PiscineEtPoney.Application/obj/Debug/net8.0/PiscineEtPoney.Application.csproj.CoreCompileInputs.cache
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/PiscineEtPoney.Application/obj/Debug/net8.0/PiscineEtPoney.Application.csproj.CopyComplete
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/PiscineEtPoney.Application/obj/Debug/net8.0/PiscineEtPoney.Application.dll
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/PiscineEtPoney.Application/obj/Debug/net8.0/refint/PiscineEtPoney.Application.dll
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/PiscineEtPoney.Application/obj/Debug/net8.0/PiscineEtPoney.Application.pdb
+/home/a.foulet/projets/piscine&poney/PiscineEtPoneyBackEnd/PiscineEtPoney.Application/obj/Debug/net8.0/ref/PiscineEtPoney.Application.dll
