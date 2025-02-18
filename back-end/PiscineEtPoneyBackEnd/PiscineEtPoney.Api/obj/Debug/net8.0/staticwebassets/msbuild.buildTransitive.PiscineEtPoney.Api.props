@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../buildMultiTargeting/PiscineEtPoney.Api.props" />
-</Project>
